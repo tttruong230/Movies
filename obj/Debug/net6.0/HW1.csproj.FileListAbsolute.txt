@@ -1,0 +1,14 @@
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\bin\Debug\net6.0\HW1.exe
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\bin\Debug\net6.0\HW1.deps.json
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\bin\Debug\net6.0\HW1.dll
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\bin\Debug\net6.0\HW1.pdb
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.dll
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\refint\HW1.dll
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.pdb
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+C:\Users\travi\OneDrive - Kansas State University\MIS411\HW1\obj\Debug\net6.0\ref\HW1.dll
